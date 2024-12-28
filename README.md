@@ -17,8 +17,8 @@ Offical implementation for AAAI 2025 paper "World Knowledge-Enhanced Reasoning U
 
 - Create a conda virtual environment and activate it:
     ```shell
-    conda create -n KAD python=3.10
-    conda activate bunny
+    conda create -n kad python=3.10
+    conda activate kad
     ```
 - Basic requirements
     ```shell
@@ -32,7 +32,7 @@ Offical implementation for AAAI 2025 paper "World Knowledge-Enhanced Reasoning U
   pip install packaging
   pip install flash-attn --no-build-isolation
   ```
-- Install bunny and other requirements
+- Install KAD and other requirements
   ```shell
   git clone https://github.com/KAD.git
   cd KAD
