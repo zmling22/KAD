@@ -6,6 +6,7 @@ Offical implementation for AAAI 2025 paper "World Knowledge-Enhanced Reasoning U
 
 ## Todo List
 - [x] train code
+- [ ] inference code
 - [ ] eval code
 - [ ] dataset
 
