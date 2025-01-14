@@ -50,7 +50,7 @@ Offical implementation for AAAI 2025 paper "World Knowledge-Enhanced Reasoning U
 
 ## Dataset
 - Baidu Cloud: [[Link]](https://pan.baidu.com/s/1ie3kJaOLkNzwPIvjq0tH6A?pwd=ura9) 提取码: ura9
-- Google Diver: [[Link]](https://drive.google.com/file/d/1oxGD4EDIGL_xX-jy9BAO9E_4nke_J2Wk/view?usp=sharing)
+- Google Dive: [[Link]](https://drive.google.com/file/d/1oxGD4EDIGL_xX-jy9BAO9E_4nke_J2Wk/view?usp=sharing)
 - Huggingface: [[Link]](https://huggingface.co/datasets/zmling/KAD_Datasets)
 
 ## Citation
