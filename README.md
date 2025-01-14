@@ -6,9 +6,9 @@ Offical implementation for AAAI 2025 paper "World Knowledge-Enhanced Reasoning U
 
 ## Todo List
 - [x] train code
-- [ ] inference code
+- [x] inference code
 - [ ] eval code
-- [ ] dataset
+- [x] dataset
 
 ## Quick Start
 ### Environments
@@ -48,6 +48,24 @@ Offical implementation for AAAI 2025 paper "World Knowledge-Enhanced Reasoning U
   sh ./script/train/finetune_lora_multi-nodes.sh
   ```
 
-
 ## Dataset
-coming soon.
+- Baidu Cloud: [[Link]](https://pan.baidu.com/s/1ie3kJaOLkNzwPIvjq0tH6A?pwd=ura9) 提取码: ura9
+- Google Diver: [[Link]](https://drive.google.com/file/d/1oxGD4EDIGL_xX-jy9BAO9E_4nke_J2Wk/view?usp=sharing)
+- Huggingface: [[Link]](https://huggingface.co/datasets/zmling/KAD_Datasets)
+
+## Citation
+If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 (´▽`ʃ♡ƪ)
+```
+@article{zhai2024world,
+  title={World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving},
+  author={Zhai, Mingliang and Li, Cheng and Guo, Zengyuan and Yang, Ningrui and Qin, Xiameng and Wu, Yuwei and Zhao, Sanyuan and Han, Junyu and Tao, Ji and Jia, Yunde},
+  journal={arXiv preprint arXiv:2412.06324},
+  year={2024}
+}
+```
+
+
+## Acknowledgements
+This work was supported by the Natural Science Foundation of Shenzhen under Grant No. JCYJ20230807142703006, Natural Science Foundation of China (NSFC) under Grants No. 62176021 and No. 62172041, and Key Research Platforms and Projects of the Guangdong Provincial Department of Education under Grant No.2023ZDZX1034.
+
+Our project is built upon [LLaVA](https://github.com/haotian-liu/LLaVA) and [Bunny-Llama](https://github.com/BAAI-DCAI/Bunny), leveraging their robust codebases and the exceptional language capabilities of base model.
