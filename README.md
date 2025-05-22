@@ -56,11 +56,14 @@ Offical implementation for AAAI 2025 paper "World Knowledge-Enhanced Reasoning U
 ## Citation
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 (´▽`ʃ♡ƪ)
 ```
-@article{zhai2024world,
-  title={World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving},
-  author={Zhai, Mingliang and Li, Cheng and Guo, Zengyuan and Yang, Ningrui and Qin, Xiameng and Wu, Yuwei and Zhao, Sanyuan and Han, Junyu and Tao, Ji and Jia, Yunde},
-  journal={arXiv preprint arXiv:2412.06324},
-  year={2024}
+@inproceedings{zhai2025world,
+  title={World knowledge-enhanced reasoning using instruction-guided interactor in autonomous driving},
+  author={Zhai, Mingliang and Li, Cheng and Guo, Zengyuan and Yang, Ningrui and Qin, Xiameng and Zhao, Sanyuan and Han, Junyu and Tao, Ji and Wu, Yuwei and Jia, Yunde},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={9},
+  pages={9842--9850},
+  year={2025}
 }
 ```
 
